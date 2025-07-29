@@ -64,7 +64,7 @@ function App() {
             <div className="text-6xl mb-4">📚</div>
             <h3 className="text-2xl font-bold text-gray-700 mb-2">Nenhuma história encontrada</h3>
             <p className="text-gray-500 max-w-md mx-auto">
-              Não encontramos histórias que correspondam à sua busca. 
+              Não encontramos publicações que correspondam à sua busca. 
               Tente usar palavras-chave diferentes.
             </p>
           </div>
@@ -80,8 +80,8 @@ function App() {
           <div className="text-center mt-12">
             <p className="text-gray-600 font-medium">
               {filteredStories.length === 1 
-                ? '1 história encontrada' 
-                : `${filteredStories.length} histórias encontradas`
+                ? '1 publicação encontrada' 
+                : `${filteredStories.length} publicações encontradas`
               }
             </p>
           </div>
