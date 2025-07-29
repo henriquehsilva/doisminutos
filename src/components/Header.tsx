@@ -5,14 +5,14 @@ export default function Header() {
   return (
     <header className="relative bg-gradient-to-r from-pink-600 via-purple-700 to-indigo-800 text-white py-16 px-4">
       <div className="absolute top-4 right-4">
-        <a
+        {/* <a
           href="https://sale.doisminutos.co"
           target="_blank"
           rel="noopener noreferrer"
           className="bg-white text-pink-700 font-semibold px-4 py-2 rounded-full shadow-md hover:bg-pink-100 transition-colors"
         >
           Ganhe dinheiro publicando histórias
-        </a>
+        </a> */}
       </div>
 
       <div className="max-w-6xl mx-auto text-center">

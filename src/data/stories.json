@@ -14,5 +14,13 @@
     "description": "Histórias que habitam o limiar entre o sono e a consciência. Fantasia, melancolia e beleza em mundos onde a realidade adormece.",
     "subscriber_count": 5,
     "substack_url": "https://henriquesilvadev.substack.com/"
+  },
+    {
+    "id": 3,
+    "title": "Milk & Eu",
+    "cover_image_url": "/milk-cover.jpeg",
+    "description": "Histórias sensíveis e cativantes sobre a vida com Milk, uma cachorrinha vira-lata adotada por Henrique e Maria.",
+    "subscriber_count": 5,
+    "substack_url": "https://milkeeu.substack.com/"
   }
 ]
