@@ -53,7 +53,7 @@ export default function StoryCard({ story }: StoryCardProps) {
             rel="noopener noreferrer"
             className="inline-flex items-center px-4 py-2 bg-gradient-to-r from-pink-500 to-purple-600 text-white font-semibold rounded-xl hover:from-pink-600 hover:to-purple-700 transition-all duration-300 shadow-md hover:shadow-lg"
           >
-            <span className="mr-2">Ler no Substack</span>
+            <span className="mr-2">Acesse</span>
             <ExternalLink className="w-4 h-4" />
           </a>
         </div>
