@@ -14,7 +14,7 @@ export default function Header() {
         </div>
         
         <div className="items-center justify-center mb-4 rounded-full shadow-lg">
-        <p className="text-xl md:text-2xl text-purple-100 font-light mb-2">
+        <p className="text-xl md:text-2xl text-purple-100 font-bold mb-2">
           Produtora de Histórias
         </p>
         
