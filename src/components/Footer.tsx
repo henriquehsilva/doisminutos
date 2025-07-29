@@ -20,10 +20,11 @@ export default function Footer() {
             <h4 className="text-lg font-semibold mb-4 text-orange-300">Conecte-se</h4>
             <div className="flex justify-center space-x-4">
               <a 
-                href="mailto:contato@doisminutos.com" 
-                className="flex items-center justify-center w-12 h-12 bg-pink-600 rounded-full hover:bg-pink-700 transition-colors duration-300"
+                href="https://www.instagram.com/doisminutos.co" 
+                target="_blank"
+                className="flex items-center justify-center w-16 h-16 bg-pink-600 rounded-full hover:bg-pink-700 transition-colors duration-300"
               >
-                <Instagram className="w-5 h-5" />
+                <Instagram className="w-6 h-6" />
               </a>
             </div>
           </div>
