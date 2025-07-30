@@ -55,7 +55,9 @@ function App() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-purple-50 via-pink-50 to-orange-50">
       <Header />
-      
+      <br />
+      <br />
+      <br />
       <main className="max-w-6xl mx-auto px-4 py-12">
         <SearchBar searchTerm={searchTerm} onSearchChange={handleSearchChange} />
         
