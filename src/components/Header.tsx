@@ -9,9 +9,9 @@ export default function Header() {
       <div className="max-w-7xl mx-auto px-4 py-4 flex items-center justify-between">
         <div className="flex items-center space-x-4">
           <img 
-            src="/logo.png"
+            src="/logo-fundo-claro.png"
             alt="Logo"
-            className="w-12 h-12 rounded-full shadow-lg"
+            className="w-18 h-16 rounded-full shadow-lg"
           />
           <div>
             <p className="text-lg font-semibold">Produtora de Histórias</p>
